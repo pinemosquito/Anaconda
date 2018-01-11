@@ -20,6 +20,8 @@ conda info
           platform : osx-64
           conda version : 4.3.30
           
+conda update conda
+
 ```
 
 
