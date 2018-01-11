@@ -1,7 +1,7 @@
 # Anaconda
 
 ## Using Anaconda (“Conda”) to Supplement Python
-Python is a valuable scripting language for data analysis and management; however managing a Python project environment can be nuanced and tricky. Anaconda is a platform built to complement Python by creating customizable and easily accessible environments in which you can run Python scripts.
+Anaconda is a open source platform that is customizable and simplify package management for Python
 
 ### Check Anaconda Version and Install
 
