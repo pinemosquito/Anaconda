@@ -16,6 +16,10 @@ The syntax to access Anaconda on the command line is simply ‘conda’.
 To check the version you have installed, use the following:
 
 conda info
+
+          platform : osx-64
+          conda version : 4.3.30
+          
 ```
 
 
