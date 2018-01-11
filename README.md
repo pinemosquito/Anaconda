@@ -16,12 +16,15 @@ The syntax to access Anaconda on the command line is simply ‘conda’.
 To check the version you have installed, use the following:
 
 conda info
-
           platform : osx-64
           conda version : 4.3.30
           
 conda update conda
-
+          The following packages will be UPDATED:
+                    anaconda: 5.0.1-py36h6e48e2d_1  --> custom-py36ha4fed55_0
+                    conda:    4.3.30-py36h173c244_0 --> 4.4.7-py36_0         
+                    pycosat:  0.6.2-py36h1486600_0  --> 0.6.3-py36hee92d8f_0 
+          proceed ([y]/n)? y
 ```
 
 
